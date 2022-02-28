@@ -4,6 +4,7 @@ TechTale is a platform where users are able to read and write tech relate blogs.
 * ReactJS
 * Firebase
 * Bootstrap
+* CSS
 * Material icons - MUI
 
 
